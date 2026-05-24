@@ -11,9 +11,9 @@ const char* ssid = "Infinix";
 const char* password = "12345678";
 
 // Ganti dengan URL Project Supabase Anda
-String supabaseURL = "https://qknsehkdtfxpziaexdxn.supabase.co/rest/v1/tb_sensor";
+String supabaseURL = "https://zcumouzhjwymkrhitqpw.supabase.co/rest/v1/tb_sensor";
 // Masukkan Anon Key Supabase Anda
-String supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFrbnNlaGtkdGZ4cHppYWV4ZHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgyNTI2MDQsImV4cCI6MjA5MzgyODYwNH0.DiawWv5LQ4OSF1pO2pH8yCY-osh5PUsti5nPAbDw8g0";
+String supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpjdW1vdXpoand5bWtyaGl0cXB3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk2NDEwNTQsImV4cCI6MjA5NTIxNzA1NH0.PZPcHkzJ3lrz7z8CHmD6YsHc7Ft54hRgRe6_OAMrEbI";
 
 WiFiServer server(80);
 
